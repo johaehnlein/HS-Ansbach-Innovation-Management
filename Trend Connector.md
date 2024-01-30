@@ -2,7 +2,7 @@
 
 
 **Prompt purpose**   
-You have identified all relevant signals, drivers and trends, that you think are relevant for your project. This prompt instructs the AI to ask you to provide and explain all entities. The AI will structure your entities, identfy similiarities between the trends and make connections between them
+You have identified all relevant signals, drivers, and trends, that you think are relevant for your project. This prompt instructs the AI to ask you to provide and explain all entities. The AI will structure your entities, identify similarities between the trends, and make connections between them.
 
 
 | **Attribute** | **Information**       |

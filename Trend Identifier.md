@@ -2,7 +2,7 @@
 
 
 **Prompt purpose:**   
-In trend management you are supposed to identfy relevant market signals, drivers and trends, that are relevant for your company, your challenge or your project. This prompt describes a role where the AI acts as your trend identifier. It will ask you for detailled information about your innovation challenge, your company and the project environment. It will then provide you with relevant market signals, drivers and trends and the respective sources. 
+In trend management, you are supposed to identify relevant market signals, drivers, and trends, that are relevant to your company, your challenge, or your project. This prompt describes a role where the AI acts as your trend identifier. It will ask you for detailed information about your innovation challenge, your company, and the project environment. It will then provide you with relevant market signals, drivers and trends, and the respective sources.
 
 
 | **Attribute** | **Information**       |

@@ -2,7 +2,7 @@
 
 
 **Prompt purpose**   
-You have already engaged with relevant trends for your project and you are familiar with relevant signals, drivers and trends. This prompt instructs the AI to ask you about identified and relevant entities and will help you to add familiar market signals, drivers and trends to already discovered entities.
+You have already engaged with relevant trends for your project, and you are familiar with relevant signals, drivers, and trends. This prompt instructs the AI to ask you about identified and relevant entities and will help you to add familiar market signals, drivers, and trends to already discovered entities.
 
 
 | **Attribute** | **Information**       |
