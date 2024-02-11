@@ -12,7 +12,7 @@ In trend management, you are supposed to identify relevant market signals, drive
 | **Source** | - |
 | **Tested Models** | OpenAI GPT-3.5, OpenAI GPT-4, Bing, Mistral-8x7b-Chat, ANthropics Claude |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
-| **Test in GPT 4** | [*Link to GPT 3.5 Coming Soon*](https://chat.openai.com/g/g-icK5qgppE-the-trend-assistant) |
+| **Test in GPT 4** | [*Link to GPT 4*](https://chat.openai.com/g/g-icK5qgppE-the-trend-assistant) |
 
 
 ## Initial Prompt:
