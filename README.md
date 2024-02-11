@@ -3,7 +3,7 @@ This repository contains a range of prompts that should facilitate exploration, 
 
 Please finde the links to the relevant branches as it follows:
 
-📈 [Opportunity Exploration](https://github.com/johaehnlein/HS-Ansbach-Innovation-Management/tree/Trend-Management)
+📈 [Opportunity Exploration](https://github.com/johaehnlein/HS-Ansbach-Innovation-Management/tree/Opportuniy-Exploration)
 💡 [Ideation](https://github.com/johaehnlein/HS-Ansbach-Innovation-Management/tree/Ideation)
 🔎 [Market Research](https://github.com/johaehnlein/HS-Ansbach-Innovation-Management/tree/Market-Research)
 👔 [Business Modelling](https://github.com/johaehnlein/HS-Ansbach-Innovation-Management/tree/Business-Modelling)
