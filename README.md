@@ -4,7 +4,7 @@
 
 ### General rules
 
-📌 I expect you to use AI (LLMs, ITONICS Suite, data analysis imaging tools, project tools, etc.) in this course. <br>
+📌 I expect you to apply AI (LLMs, ITONICS Suite, data analysis imaging tools, project tools, etc.) in this course. <br>
 📌 In fact, this is necessary for many assignments! <br>
 📌 Using AI tools is a skill and you should practice it as much as possible. <br>
 📌 I will introduce relevant AI tools during the classroom sessions. You are welcome to use, contribute or develop your own tools. <br>
